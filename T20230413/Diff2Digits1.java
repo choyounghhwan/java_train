@@ -2,7 +2,7 @@ package T20230413;
 //읽은 두 값의 차가 10이하인지를 표시(방법1 :if문)
 import java.util.Scanner;
 
-public class Test13 {
+public class Diff2Digits1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

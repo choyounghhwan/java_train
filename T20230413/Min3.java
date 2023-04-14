@@ -2,7 +2,7 @@ package T20230413;
 //3개의 정수 중 최솟값 구하기 
 import java.util.Scanner;
 
-public class Test14 {
+public class Min3 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

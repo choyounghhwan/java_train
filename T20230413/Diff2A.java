@@ -2,7 +2,7 @@ package T20230413;
 // 읽은 두 정숫값의 차이를 표시(방법1 : if문)
 import java.util.Scanner;
 
-public class Test12 {
+public class Diff2A {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

@@ -2,7 +2,7 @@ package T20230413;
 // 읽은 정숫값인지 약수인지 판별(등가 연산자)
 import java.util.Scanner;
 
-public class Test03 {
+public class Measure1 {
 
 	public static void main(String[] args) {
 		Scanner stdIn = new Scanner(System.in);

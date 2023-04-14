@@ -2,7 +2,7 @@ package T20230413;
 
 import java.util.Scanner;
 
-public class Test06 {
+public class Balance {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

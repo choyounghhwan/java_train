@@ -2,7 +2,7 @@ package T20230413;
 // 읽은 2개의 실숫값 중에서 큰 쪽을 표시(방법1 : if문) 
 import java.util.Scanner;
 
-public class Test11 {
+public class Max2A {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
