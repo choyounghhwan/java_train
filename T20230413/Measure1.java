@@ -1,10 +1,9 @@
 package T20230413;
-// 읽은 정숫값인지 약수인지 판별(등가 연산자)
 import java.util.Scanner;
 
 public class Measure1 {
-
 	public static void main(String[] args) {
+		// 읽은 정숫값인지 약수인지 판별(등가 연산자)
 		Scanner stdIn = new Scanner(System.in);
 		
 		System.out.print("변수 A:"); int a = stdIn.nextInt();

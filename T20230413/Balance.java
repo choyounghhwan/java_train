@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Balance {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// 읽은 정숫값의 대소 관계를 표시
 		Scanner stdIn = new Scanner(System.in);
 		
 		System.out.print("변수 a:"); int a = stdIn.nextInt();

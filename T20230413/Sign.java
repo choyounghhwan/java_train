@@ -4,7 +4,7 @@ import java.util.Scanner;
 class Sign {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// 읽은 정숫값의 부호(양수/음수/0)를 판정해서 표시 
 		Scanner stdIn = new Scanner(System.in);
 		
 		System.out.print("정숫값:"); 

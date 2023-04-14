@@ -1,9 +1,9 @@
 package T20230413;
-// 읽은 정숫값이 음의 값인가? 
 import java.util.Scanner;
 
 class Nagative {
 	public static void main(String[] args) {
+    // 읽은 정숫값이 음의 값인가? 
 	Scanner stdIn = new Scanner(System.in);
 	
 	

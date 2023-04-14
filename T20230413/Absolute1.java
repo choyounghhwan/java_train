@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 class Absolute1 {
     public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// 정숫값을 읽어서 절댓값을 표시 (방법1)
 		Scanner stdIn = new Scanner(System.in);
 		
 	    System.out.print("정숫값:");

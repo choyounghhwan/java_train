@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Gointo5 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// 읽은 정숫값이 양의 정수이면 5로 나누어 떨어지는지 여부를 표시 
 		Scanner stdIn = new Scanner(System.in);
 		
 

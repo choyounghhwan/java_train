@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Modulo3 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// 읽은 정숫값이 양수이면 3으로 나는 결과를 표시
     Scanner stdIn = new Scanner(System.in);
 		
 		

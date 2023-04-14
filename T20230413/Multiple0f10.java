@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Multiple0f10 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// 읽은 정숫값이 양수이면 10의 배수인지 판정해서 표시 
 		Scanner stdIn = new Scanner(System.in);
 		
 		

@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Grade1 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// 점수를 기준으로 성적 판정(방법1: 논리곱 연산자 &&를 이용)
 		Scanner stdIn = new Scanner(System.in);
 		
 		System.out.print("점수:");

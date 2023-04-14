@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class Measure2 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// 가져온 정수 값은 약 몇인지 여부 (논리 부정 연산자)
 		Scanner stdIn = new Scanner(System.in);
 		
 		System.out.print("변수 A:"); int a = stdIn.nextInt();
